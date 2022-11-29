@@ -1,0 +1,100 @@
+body {
+    font-family: "Avenir Next";
+  }
+  
+  li {
+    list-style: none;
+  }
+  
+  .header {
+    background-color: #96897f;
+    color: black;
+    height: 90px;
+  }
+  
+  .header-logo {
+    float: left;
+    font-size: 36px;
+    padding: 20px 40px;
+  }
+  
+  .header-list li {
+    float: left;
+    padding: 33px 20px;
+  }
+  
+  .copy-container h1 {
+    font-size: 100px;
+    text-align: center;
+  }
+  
+  .copy-container h3 {
+    font-size: 50px;
+    text-align: center;
+  }
+  
+  .copy-container span {
+    color:gray;
+  }
+
+  .body {
+    background-color: #e0e2e4;
+  }
+
+.contents {
+    height: 400px;
+    text-align: center;
+  }
+
+.formulir {
+  text-align: center;
+  padding-bottom: 10px;
+}
+  .section-title {
+    border-bottom: 2px solid #dee7ec;
+    /* Ganti font-size ke 28px */
+    
+    
+    /* Ganti property padding-bottom ke 15px */
+    
+    
+    /* Ganti property margin-bottom ke 50px */
+    
+  }
+  
+  .contents-item {
+    float: left;
+    /* Ganti margin-right ke 40px */
+    
+  }
+  
+  /* Ganti font-size dan margin-top tag <p> yang di dalam contents-item */
+
+  /* Tambahkan CSS untuk tags */
+
+  /* Tambahan CSS untuk contact */
+  .contact-submit {
+    background-color: #dee7ec;
+    color: #889eab;
+  }
+  
+  .footer {
+    background-color: #96897f;
+    color: #fff;
+    height: 120px;
+    padding: 40px;
+  }
+  
+  .footer-logo {
+    float: left;
+    font-size: 32px;
+  }
+  
+  .footer-list {
+    float: right;
+  }
+  
+  .footer-list li {
+    padding-bottom: 20px;
+  }
+  
